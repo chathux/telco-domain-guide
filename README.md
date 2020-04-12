@@ -5,8 +5,11 @@ Aim of this repository is to cover the fundamentals of telco domain for data eng
 
 
 - [Mobile Telcommunication Generations](mobile-telco-generations.md)
-
-- Full Duplex / Half Duplex / Multiplexing?
+- Packet Switching vs Circuit Switching
+- Full Duplex / Half Duplex / Multiplexing
+- Um / Abis Interfaces
+- OSS / BSS
+- Clearing House
 
 
 
